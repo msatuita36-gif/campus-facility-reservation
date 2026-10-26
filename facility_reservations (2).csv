@@ -1,0 +1,366 @@
+Reservation_ID,Facility_Type,User_Category,Reservation_Purpose,Lead_Time_Days,Participants,Facility_Capacity,Duration_Hours,Reservation_Weekday,Start_Hour,Usage_Status,Actual_Attendance,Cancellation_Days_Before
+RES-0001,Meeting Room,External User,Event,1,98,50,1,1,13,No-Show,0,
+RES-0002,Laboratory,Student Organization,Workshop,14,33,20,2,1,15,Used,32,
+RES-0003,Meeting Room,Student Organization,Training,14,51,30,4,6,9,No-Show,0,
+RES-0004,Meeting Room,Student Organization,Workshop,8,110,50,1,3,15,Used,99,
+RES-0005,Lecture Hall,Student,Class Activity,3,115,20,3,5,19,Cancelled,0,0.0
+RES-0006,Sports Facility,Faculty,Class Activity,1,112,30,1,5,8,No-Show,0,
+RES-0007,Meeting Room,Student,Training,0,41,50,6,5,11,Used,34,
+RES-0008,Meeting Room,Student,Training,14,102,150,1,0,16,Cancelled,0,8.0
+RES-0009,Lecture Hall,Faculty,Event,2,113,20,1,0,15,No-Show,0,
+RES-0010,Laboratory,Student,Class Activity,29,118,80,2,2,16,Used,110,
+RES-0011,Laboratory,Student,Meeting,7,7,150,1,2,14,Used,7,
+RES-0012,Sports Facility,Faculty,Class Activity,20,91,100,4,5,16,Cancelled,0,4.0
+RES-0013,Auditorium,Faculty,Class Activity,20,120,150,3,1,15,Used,108,
+RES-0014,Meeting Room,Faculty,Meeting,15,93,30,6,2,8,Used,82,
+RES-0015,Laboratory,Student Organization,Workshop,27,32,100,2,1,17,Used,29,
+RES-0016,Lecture Hall,Student Organization,Class Activity,3,93,150,4,1,13,Cancelled,0,2.0
+RES-0017,Auditorium,External User,Training,7,17,30,4,1,7,Used,15,
+RES-0018,Lecture Hall,Faculty,Workshop,7,60,50,4,1,12,Used,53,
+RES-0019,Meeting Room,Faculty,Meeting,4,77,80,5,3,13,No-Show,0,
+RES-0020,Auditorium,Student,Workshop,9,57,50,2,2,8,Cancelled,0,6.0
+RES-0021,Meeting Room,Administrative Staff,Event,9,86,30,4,3,20,No-Show,0,
+RES-0022,Laboratory,External User,Meeting,23,32,150,5,3,10,Used,31,
+RES-0023,Sports Facility,Student,Class Activity,9,75,150,6,5,11,No-Show,0,
+RES-0024,Sports Facility,Faculty,Class Activity,27,79,50,4,6,13,Cancelled,0,2.0
+RES-0025,Meeting Room,Faculty,Training,23,78,100,4,3,18,Used,68,
+RES-0026,Lecture Hall,External User,Class Activity,27,38,50,6,4,17,No-Show,0,
+RES-0027,Laboratory,Student,Event,3,40,100,4,5,17,Used,37,
+RES-0028,Lecture Hall,External User,Meeting,30,34,80,6,4,10,Used,30,
+RES-0029,Lecture Hall,Student Organization,Event,19,58,50,1,0,18,Used,52,
+RES-0030,Meeting Room,Student,Class Activity,30,72,20,3,6,18,Cancelled,0,8.0
+RES-0031,Meeting Room,Administrative Staff,Training,11,47,80,1,1,13,Used,42,
+RES-0032,Sports Facility,Student Organization,Event,29,52,30,1,2,14,Used,47,
+RES-0033,Laboratory,Administrative Staff,Workshop,18,38,30,3,4,7,Used,35,
+RES-0034,Laboratory,,Meeting,2,30,30,2,2,17,Cancelled,0,5.0
+RES-0035,Laboratory,Student Organization,Training,12,81,150,3,1,20,Used,72,
+RES-0036,Lecture Hall,Faculty,Meeting,4,99,20,3,6,13,Cancelled,0,9.0
+RES-0037,Lecture Hall,Student,Workshop,29,38,100,4,0,14,Used,31,
+RES-0038,Laboratory,Faculty,Meeting,9,104,150,6,1,13,Used,91,
+RES-0039,lecture hall,Faculty,Meeting,6,71,20,6,6,8,Cancelled,0,4.0
+RES-0040,Auditorium,Faculty,Workshop,17,24,80,3,5,15,Used,20,
+RES-0041,Laboratory,Faculty,Class Activity,13,47,80,2,0,17,Cancelled,0,5.0
+RES-0042,Meeting Room,Student,Class Activity,3,5,50,5,5,19,Used,5,
+RES-0043,Meeting Room,Student,Meeting,25,9,100,1,6,20,Used,9,
+RES-0044,Laboratory,Student Organization,Class Activity,26,43,50,4,0,13,Used,42,
+RES-0045,Meeting Room,,Workshop,23,57,50,3,2,20,Used,54,
+RES-0046,lecture hall,Student,Training,19,97,50,2,3,14,Used,83,
+RES-0047,Laboratory,Faculty,Class Activity,12,20,100,4,0,15,Cancelled,0,6.0
+RES-0048,Lecture Hall,Student,Class Activity,16,102,80,2,1,15,Used,95,
+RES-0049,Meeting Room,Student Organization,Class Activity,16,32,50,2,1,20,Used,27,
+RES-0050,Lecture Hall,External User,Workshop,5,21,150,4,1,17,Used,20,
+RES-0051,Lecture Hall,Student,Meeting,2,86,100,2,2,8,Used,75,
+RES-0052,Lecture Hall,Student,Workshop,7,94,150,5,3,8,Used,81,
+RES-0053,Meeting Room,Student Organization,Class Activity,14,75,100,1,1,12,Used,67,
+RES-0054,Auditorium,Student,Meeting,4,18,50,3,2,14,Used,18,
+RES-0055,Meeting Room,Student Organization,Workshop,3,18,100,5,1,16,Used,16,
+RES-0056,Meeting Room,Student Organization,Workshop,26,50,30,2,5,13,Cancelled,0,1.0
+RES-0057,Laboratory,Student Organization,Workshop,11,57,30,5,1,14,No-Show,0,
+RES-0058,Auditorium,,Event,18,120,50,5,6,19,Used,109,
+RES-0059,Lecture Hall,Student Organization,Workshop,16,38,150,6,3,11,Used,36,
+RES-0060,Lecture Hall,Student,Training,22,27,80,2,5,13,Cancelled,0,8.0
+RES-0061,Auditorium,Student,Workshop,22,114,50,5,4,14,Used,100,
+RES-0062,Laboratory,Student Organization,Meeting,9,22,50,6,1,13,Cancelled,0,0.0
+RES-0063,Auditorium,Student Organization,Meeting,26,8,30,5,4,20,Used,6,
+RES-0064,Meeting Room,Student Organization,Meeting,11,54,80,2,1,20,No-Show,0,
+RES-0065,Auditorium,Administrative Staff,Workshop,25,51,50,5,0,14,No-Show,0,
+RES-0066,Auditorium,Student,Meeting,12,76,80,1,1,13,Used,69,
+RES-0067,Auditorium,Student Organization,Training,3,106,50,4,1,15,Cancelled,0,0.0
+RES-0068,Laboratory,Student,Workshop,23,113,30,3,0,9,Cancelled,0,3.0
+RES-0069,Lecture Hall,Student Organization,Training,0,38,150,4,0,12,Used,34,
+RES-0070,Laboratory,,Event,23,118,50,4,6,10,Used,98,
+RES-0071,Lecture Hall,External User,Meeting,1,78,20,1,3,9,No-Show,0,
+RES-0072,Laboratory,Student,Meeting,6,13,50,4,2,8,Used,9,
+RES-0073,Meeting Room,Student,Event,18,113,80,6,6,15,Used,100,
+RES-0074,Lecture Hall,Student,Meeting,-2,21,20,3,1,7,Cancelled,0,1.0
+RES-0075,Lecture Hall,Student Organization,Meeting,12,73,30,2,2,16,Used,64,
+RES-0076,Lecture Hall,Student Organization,Training,3,96,20,6,5,13,Cancelled,0,5.0
+RES-0077,Lecture Hall,Student Organization,Workshop,7,33,80,1,4,12,No-Show,0,
+RES-0078,Auditorium,Administrative Staff,Class Activity,27,36,100,3,2,17,Used,32,
+RES-0079,Auditorium,Student,Workshop,22,60,150,4,1,14,Used,56,
+RES-0080,Meeting Room,Administrative Staff,Workshop,3,107,50,3,0,17,Used,89,
+RES-0081,Auditorium,Student,Training,11,30,150,6,0,16,No-Show,0,
+RES-0082,Laboratory,Student Organization,Event,8,81,30,3,1,7,Used,74,
+RES-0083,Meeting Room,Student,Class Activity,5,57,100,6,5,10,Cancelled,0,3.0
+RES-0084,Lecture Hall,Student Organization,Class Activity,26,17,80,1,4,14,Used,17,
+RES-0085,Lecture Hall,Faculty,Event,19,87,100,5,3,20,Used,73,
+RES-0086,Lecture Hall,Student,Class Activity,5,101,100,4,5,9,No-Show,0,
+RES-0087,Meeting Room,External User,Meeting,20,71,80,2,1,8,Used,66,
+RES-0088,Laboratory,Administrative Staff,Class Activity,12,25,30,2,1,20,No-Show,0,
+RES-0089,Lecture Hall,Student Organization,Class Activity,1,23,80,5,2,20,Used,20,
+RES-0090,Laboratory,Administrative Staff,Training,13,54,100,4,6,9,Used,46,
+RES-0091,Lecture Hall,Student Organization,Class Activity,5,63,150,4,4,12,Cancelled,0,4.0
+RES-0092,Meeting Room,Student,Class Activity,7,69,150,1,5,15,Used,59,
+RES-0093,Laboratory,Student,Training,27,33,30,4,1,9,Used,29,
+RES-0094,Laboratory,Student Organization,Class Activity,22,63,80,6,5,11,Cancelled,0,2.0
+RES-0095,Laboratory,Student Organization,Training,4,39,20,1,0,12,Used,33,
+RES-0096,Auditorium,Student Organization,Class Activity,26,84,100,3,1,15,Used,69,
+RES-0097,Laboratory,External User,Class Activity,17,97,150,3,3,11,No-Show,0,
+RES-0098,Lecture Hall,Faculty,Class Activity,27,80,20,6,0,12,Used,69,
+RES-0099,Lecture Hall,Student,Event,23,5,80,2,6,11,Used,5,
+RES-0100,Sports Facility,Administrative Staff,Event,10,120,150,3,6,17,Used,103,
+RES-0101,Sports Facility,Administrative Staff,Workshop,16,7,150,5,3,9,Used,3,
+RES-0102,Meeting Room,Student Organization,Meeting,16,120,50,1,2,10,Used,109,
+RES-0103,Lecture Hall,External User,Class Activity,22,8,20,5,0,10,Cancelled,0,0.0
+RES-0104,Sports Facility,Faculty,Workshop,7,64,150,5,4,19,Used,56,
+RES-0105,Meeting Room,Administrative Staff,Meeting,10,17,150,5,3,20,Used,15,
+RES-0106,Meeting Room,Student,Workshop,7,16,80,4,5,14,Used,14,
+RES-0107,Laboratory,Administrative Staff,Event,9,84,150,5,4,9,Used,79,
+RES-0108,Lecture Hall,External User,Training,4,89,20,5,0,17,Cancelled,0,0.0
+RES-0109,Lecture Hall,Student Organization,Workshop,1,18,80,6,0,13,Cancelled,0,5.0
+RES-0110,Sports Facility,Administrative Staff,Class Activity,29,118,20,3,5,18,Cancelled,0,8.0
+RES-0111,Laboratory,,Meeting,2,42,150,0,1,12,Used,36,
+RES-0112,Lecture Hall,Faculty,Training,27,41,100,4,6,20,Cancelled,0,7.0
+RES-0113,Laboratory,,Workshop,0,39,150,2,0,18,Used,34,
+RES-0114,Auditorium,Student Organization,Event,24,58,80,6,5,10,Used,49,
+RES-0115,Lecture Hall,Faculty,Workshop,10,25,20,5,6,17,No-Show,0,
+RES-0116,Meeting Room,Faculty,Class Activity,16,54,20,4,3,11,Used,47,
+RES-0117,Meeting Room,Faculty,Training,8,29,50,2,0,11,Used,25,
+RES-0118,Meeting Room,Administrative Staff,Event,15,10,100,3,6,10,Used,10,
+RES-0119,Laboratory,,Training,13,47,20,3,1,16,Used,43,
+RES-0120,Auditorium,Faculty,Training,16,82,150,4,3,10,Used,72,
+RES-0121,Auditorium,Faculty,Meeting,12,93,30,5,6,15,No-Show,0,
+RES-0122,Auditorium,Student Organization,Meeting,16,45,50,5,5,15,Used,39,
+RES-0123,Lecture Hall,Administrative Staff,Meeting,25,42,30,6,0,17,No-Show,0,
+RES-0124,Laboratory,Faculty,Training,13,96,50,6,5,20,No-Show,0,
+RES-0125,Lecture Hall,Student Organization,Workshop,11,84,50,5,1,7,Cancelled,0,6.0
+RES-0126,Laboratory,Faculty,Workshop,4,101,20,3,5,20,No-Show,0,
+RES-0127,Laboratory,Faculty,Training,11,110,80,4,4,8,Cancelled,0,5.0
+RES-0128,Lecture Hall,Student Organization,Event,3,100,100,3,2,14,No-Show,0,
+RES-0129,Lecture Hall,Administrative Staff,Training,5,113,150,4,2,11,Used,99,
+RES-0130,Auditorium,Administrative Staff,Training,29,53,30,5,0,15,Used,48,
+RES-0131,Lecture Hall,Student,Class Activity,2,50,150,3,6,17,Used,44,
+RES-0132,Sports Facility,Administrative Staff,Meeting,14,42,150,4,1,19,Used,35,
+RES-0133,Auditorium,Student,Event,25,32,150,1,2,12,Used,27,
+RES-0134,Laboratory,Faculty,Training,29,91,50,5,3,20,Cancelled,0,4.0
+RES-0135,Auditorium,Student,Class Activity,4,87,150,3,4,11,Used,78,
+RES-0136,Lecture Hall,Administrative Staff,Meeting,5,97,80,3,3,9,No-Show,0,
+RES-0137,Sports Facility,Faculty,Workshop,11,24,20,4,3,12,Used,23,
+RES-0138,Laboratory,Administrative Staff,Event,17,61,30,2,4,14,Used,56,
+RES-0139,Meeting Room,Faculty,Class Activity,29,30,100,4,6,16,Used,27,
+RES-0140,Lecture Hall,Administrative Staff,Event,6,108,20,5,2,18,Cancelled,0,9.0
+RES-0141,Laboratory,Student,Meeting,5,36,50,3,5,10,Used,32,
+RES-0142,Laboratory,Student,Meeting,7,21,100,1,5,11,Used,20,
+RES-0143,lecture hall,External User,Workshop,27,71,20,3,6,20,Used,66,
+RES-0144,Auditorium,Administrative Staff,Workshop,0,106,50,2,6,13,Used,95,
+RES-0145,Laboratory,Administrative Staff,Event,11,111,30,3,5,10,Cancelled,0,2.0
+RES-0146,Lecture Hall,Student,Meeting,3,16,80,4,1,20,Used,15,
+RES-0147,Laboratory,Faculty,Training,4,42,30,1,5,13,Used,35,
+RES-0148,Laboratory,Student,Class Activity,28,22,150,5,5,20,Used,18,
+RES-0149,Laboratory,Administrative Staff,Training,0,40,20,2,2,19,Used,38,
+RES-0150,Lecture Hall,Student Organization,Class Activity,9,66,150,6,4,19,Used,57,
+RES-0151,Meeting Room,Student Organization,Event,28,37,100,5,1,15,Used,29,
+RES-0152,Sports Facility,Student,Meeting,18,12,150,2,3,18,Used,11,
+RES-0153,Lecture Hall,Student Organization,Meeting,2,64,150,4,5,20,No-Show,0,
+RES-0154,Auditorium,Faculty,Class Activity,14,11,30,1,1,10,No-Show,0,
+RES-0155,Lecture Hall,Faculty,Event,30,31,150,1,2,7,Used,25,
+RES-0156,Auditorium,Student Organization,Class Activity,12,5,80,6,5,11,Used,5,
+RES-0157,Lecture Hall,Faculty,Event,16,15,150,5,3,15,Used,13,
+RES-0158,Auditorium,Student,Event,16,55,150,1,6,14,Used,50,
+RES-0159,Meeting Room,Student Organization,Training,20,103,80,2,0,8,Cancelled,0,5.0
+RES-0160,Meeting Room,Student,Event,5,94,50,2,5,14,No-Show,0,
+RES-0161,Lecture Hall,Student,Meeting,26,16,20,3,5,9,No-Show,0,
+RES-0162,Sports Facility,Faculty,Event,30,9,20,2,6,14,Used,8,
+RES-0163,Lecture Hall,Student Organization,Training,4,44,50,2,1,15,Cancelled,0,7.0
+RES-0164,Lecture Hall,Administrative Staff,Meeting,25,80,100,4,6,15,Cancelled,0,1.0
+RES-0165,Auditorium,Student Organization,Class Activity,25,91,80,2,2,12,Used,82,
+RES-0166,Laboratory,Faculty,Training,22,100,50,6,2,12,No-Show,0,
+RES-0167,Meeting Room,External User,Class Activity,11,44,30,5,2,16,Used,35,
+RES-0168,Meeting Room,External User,Workshop,14,24,80,5,4,17,No-Show,0,
+RES-0169,Laboratory,Student,Meeting,26,8,80,2,4,18,Used,7,
+RES-0170,Sports Facility,Faculty,Class Activity,4,22,150,5,3,11,Used,19,
+RES-0171,Lecture Hall,Student,Event,25,12,100,6,0,12,Used,11,
+RES-0172,Laboratory,Student,Class Activity,28,104,80,2,6,11,Used,92,
+RES-0173,Lecture Hall,Faculty,Event,21,36,150,5,1,14,Used,34,
+RES-0174,Sports Facility,Administrative Staff,Event,10,100,50,3,0,8,No-Show,0,
+RES-0175,Lecture Hall,Student Organization,Class Activity,17,69,150,5,4,13,Used,63,
+RES-0176,Lecture Hall,Student Organization,Class Activity,1,67,50,3,2,9,No-Show,0,
+RES-0177,Laboratory,Administrative Staff,Event,28,57,20,5,4,14,Used,53,
+RES-0178,Sports Facility,Student Organization,Workshop,10,100,50,1,6,18,Used,90,
+RES-0179,Sports Facility,Student Organization,Class Activity,1,10,20,3,0,20,Used,9,
+RES-0180,Meeting Room,Student,Training,24,15,20,2,1,13,Used,14,
+RES-0181,Sports Facility,External User,Meeting,20,54,150,2,3,7,Used,50,
+RES-0182,Sports Facility,Administrative Staff,Class Activity,19,50,100,2,5,10,Used,44,
+RES-0183,Laboratory,Student,Training,1,68,30,3,4,8,Cancelled,0,7.0
+RES-0184,Laboratory,External User,Class Activity,23,90,150,1,2,17,Used,78,
+RES-0185,Meeting Room,Student Organization,Workshop,19,73,20,5,4,20,No-Show,0,
+RES-0186,Auditorium,Faculty,Training,24,34,30,4,6,14,Used,32,
+RES-0187,Laboratory,Faculty,Workshop,25,42,100,5,3,9,Cancelled,0,2.0
+RES-0188,Lecture Hall,Student Organization,Workshop,6,92,30,5,6,7,Cancelled,0,9.0
+RES-0189,Meeting Room,Student,Meeting,6,28,100,1,5,20,Used,23,
+RES-0190,Lecture Hall,Faculty,Class Activity,28,63,150,1,2,11,Used,55,
+RES-0191,Sports Facility,Faculty,Workshop,16,67,20,3,1,8,Used,58,
+RES-0192,Lecture Hall,Student Organization,Training,13,92,20,3,5,9,Used,80,
+RES-0193,Lecture Hall,Student Organization,Class Activity,8,87,150,2,1,10,Used,75,
+RES-0194,Meeting Room,Student,Training,19,58,80,5,2,16,Used,56,
+RES-0195,Lecture Hall,Student Organization,Workshop,23,40,80,4,1,19,Used,31,
+RES-0196,Lecture Hall,Student Organization,Workshop,0,47,50,5,4,10,Cancelled,0,3.0
+RES-0197,Auditorium,,Class Activity,17,52,50,1,2,16,Used,44,
+RES-0198,Meeting Room,Administrative Staff,Event,30,30,100,5,4,7,Used,27,
+RES-0199,Lecture Hall,Administrative Staff,Class Activity,8,77,80,2,6,7,Used,74,
+RES-0200,Laboratory,Administrative Staff,Meeting,8,29,20,3,5,7,No-Show,0,
+RES-0201,Meeting Room,Student Organization,Event,27,80,80,3,6,19,Cancelled,0,3.0
+RES-0202,Sports Facility,Student Organization,Class Activity,1,92,100,5,0,15,No-Show,0,
+RES-0203,Laboratory,Student,Workshop,12,116,20,2,3,18,No-Show,0,
+RES-0204,Lecture Hall,Administrative Staff,Workshop,14,-1,50,2,1,7,Used,17,
+RES-0205,Lecture Hall,Administrative Staff,Class Activity,24,93,100,3,6,7,Used,82,
+RES-0206,Lecture Hall,Student,Meeting,3,14,80,3,4,18,Used,13,
+RES-0207,Lecture Hall,Student,Meeting,13,44,20,2,2,8,No-Show,0,
+RES-0208,Auditorium,Student Organization,Event,4,25,20,2,3,9,Cancelled,0,5.0
+RES-0209,Lecture Hall,Faculty,Training,24,23,80,2,4,14,Used,21,
+RES-0210,Laboratory,Administrative Staff,Training,19,25,50,3,3,15,No-Show,0,
+RES-0211,Meeting Room,Faculty,Class Activity,15,10,150,3,3,10,Used,9,
+RES-0212,Auditorium,Student,Class Activity,12,100,80,3,0,13,Cancelled,0,2.0
+RES-0213,Lecture Hall,Faculty,Class Activity,4,12,150,5,3,16,Used,10,
+RES-0214,Meeting Room,Student,Workshop,28,51,30,2,2,13,Used,41,
+RES-0215,Meeting Room,Student,Class Activity,20,86,50,6,5,12,Cancelled,0,5.0
+RES-0216,Meeting Room,Administrative Staff,Meeting,9,119,20,5,6,8,No-Show,0,
+RES-0217,Lecture Hall,Student,Training,12,104,80,2,5,13,Used,98,
+RES-0218,Lecture Hall,Administrative Staff,Training,22,20,30,2,0,18,Used,19,
+RES-0219,Sports Facility,Student,Training,22,119,50,2,5,15,Used,105,
+RES-0220,Laboratory,Faculty,Meeting,14,-9,50,2,2,19,Cancelled,0,1.0
+RES-0221,Laboratory,Administrative Staff,Event,9,25,30,3,2,8,Used,22,
+RES-0222,Laboratory,Administrative Staff,Event,20,-4,20,1,6,7,No-Show,0,
+RES-0223,Auditorium,Student Organization,Class Activity,20,111,80,1,6,14,No-Show,0,
+RES-0224,Sports Facility,Faculty,Workshop,18,50,150,3,0,9,Used,44,
+RES-0225,Lecture Hall,Student,Workshop,-1,26,30,5,2,15,Used,23,
+RES-0226,Sports Facility,Administrative Staff,Meeting,14,106,50,2,5,19,Cancelled,0,6.0
+RES-0227,Lecture Hall,Student Organization,Event,19,115,30,6,3,11,Cancelled,0,4.0
+RES-0228,Auditorium,Faculty,Event,29,118,100,3,1,14,Used,108,
+RES-0229,Auditorium,Student Organization,Workshop,16,115,50,6,3,16,Used,100,
+RES-0230,Lecture Hall,Student Organization,Event,10,106,150,2,6,9,Used,84,
+RES-0231,Lecture Hall,External User,Event,17,57,30,4,1,19,No-Show,0,
+RES-0232,Laboratory,Faculty,Workshop,5,-4,20,5,5,9,Cancelled,0,5.0
+RES-0233,Sports Facility,Faculty,Meeting,2,76,80,1,5,18,No-Show,0,
+RES-0234,Auditorium,Administrative Staff,Event,21,30,80,6,6,16,Used,25,
+RES-0235,Sports Facility,Student Organization,Event,30,59,150,3,2,8,Cancelled,0,7.0
+RES-0236,Meeting Room,Faculty,Training,26,81,150,3,1,17,Used,71,
+RES-0237,Laboratory,Student,Class Activity,18,114,150,4,3,9,Used,99,
+RES-0238,Meeting Room,Administrative Staff,Workshop,1,38,80,4,3,15,No-Show,0,
+RES-0239,Lecture Hall,External User,Training,30,34,50,1,2,20,No-Show,0,
+RES-0240,Lecture Hall,Administrative Staff,Workshop,13,90,50,6,5,20,Used,75,
+RES-0241,Meeting Room,Faculty,Training,8,5,20,4,5,19,Used,5,
+RES-0242,Meeting Room,Student,Class Activity,27,70,50,6,1,13,Used,59,
+RES-0243,Lecture Hall,Student,Class Activity,23,91,50,3,5,14,Used,84,
+RES-0244,Laboratory,Student,Event,23,68,20,4,1,11,Used,62,
+RES-0245,Auditorium,External User,Meeting,8,49,30,3,2,19,No-Show,0,
+RES-0246,Meeting Room,Student,Workshop,30,101,80,6,0,13,Used,89,
+RES-0247,Auditorium,Student,Workshop,14,48,50,5,2,17,Cancelled,0,8.0
+RES-0248,Laboratory,Student Organization,Workshop,16,87,150,6,6,12,Used,80,
+RES-0249,Laboratory,Student,Training,23,58,50,4,3,17,Used,51,
+RES-0250,Laboratory,Faculty,Class Activity,20,8,150,5,4,10,Used,7,
+RES-0251,Auditorium,Administrative Staff,Event,5,66,80,3,0,17,Used,56,
+RES-0252,Meeting Room,Student,Training,9,10,20,3,4,7,Cancelled,0,7.0
+RES-0253,Laboratory,External User,Event,11,112,30,5,2,8,Used,97,
+RES-0254,lecture hall,External User,Meeting,29,74,100,1,5,11,No-Show,0,
+RES-0255,Lecture Hall,Faculty,Class Activity,22,48,80,5,6,13,Cancelled,0,2.0
+RES-0256,Meeting Room,Student,Event,11,61,30,1,3,16,No-Show,0,
+RES-0257,Meeting Room,Student,Workshop,22,76,80,4,0,12,Used,71,
+RES-0258,Lecture Hall,Faculty,Class Activity,22,35,150,3,3,7,Used,31,
+RES-0259,Lecture Hall,Student Organization,Meeting,12,38,50,3,0,11,Used,30,
+RES-0260,Auditorium,Student Organization,Training,12,53,20,3,3,13,Cancelled,0,7.0
+RES-0261,Lecture Hall,Student,Meeting,27,34,30,3,0,14,Used,30,
+RES-0262,Meeting Room,Faculty,Class Activity,17,92,150,3,4,16,Used,80,
+RES-0263,Laboratory,External User,Event,4,17,100,3,2,10,Used,15,
+RES-0264,Lecture Hall,Faculty,Class Activity,22,100,150,4,1,15,Used,86,
+RES-0265,Sports Facility,External User,Training,18,45,150,5,0,15,Used,43,
+RES-0266,Lecture Hall,Faculty,Training,15,70,20,4,6,17,Used,64,
+RES-0267,Lecture Hall,Student,Training,22,23,30,4,5,14,Used,20,
+RES-0268,Lecture Hall,Student Organization,Training,28,49,20,6,5,18,Cancelled,0,8.0
+RES-0269,Lecture Hall,Administrative Staff,Meeting,10,92,20,6,0,10,Cancelled,0,7.0
+RES-0270,Lecture Hall,Student,Meeting,12,36,150,1,2,16,Used,33,
+RES-0271,Lecture Hall,External User,Meeting,5,20,150,5,6,7,Used,16,
+RES-0272,Lecture Hall,Student,Workshop,20,65,20,2,4,8,Cancelled,0,6.0
+RES-0273,Lecture Hall,Student Organization,Training,12,23,100,2,0,19,Used,20,
+RES-0274,Auditorium,Faculty,Event,10,41,80,5,0,13,Cancelled,0,6.0
+RES-0275,Meeting Room,Student Organization,Event,21,57,20,1,1,15,No-Show,0,
+RES-0276,Laboratory,Student Organization,Training,12,70,150,6,6,15,Used,62,
+RES-0277,Laboratory,Student,Event,14,79,150,5,1,16,No-Show,0,
+RES-0278,Laboratory,Student,Meeting,13,83,80,6,6,10,No-Show,0,
+RES-0279,Meeting Room,Student,Workshop,8,102,100,5,4,9,Used,87,
+RES-0280,Meeting Room,Student,Workshop,3,12,50,6,6,7,Used,9,
+RES-0281,Lecture Hall,Student,Class Activity,25,47,100,1,5,19,Used,39,
+RES-0282,Lecture Hall,Student,Event,2,5,50,6,2,10,No-Show,0,
+RES-0283,Lecture Hall,Student Organization,Event,10,6,150,1,5,15,Used,6,
+RES-0284,Lecture Hall,Student Organization,Event,20,29,20,2,1,13,Used,23,
+RES-0285,Auditorium,Administrative Staff,Workshop,4,74,30,1,2,9,Cancelled,0,5.0
+RES-0286,Laboratory,Student,Event,20,108,150,3,1,12,Used,96,
+RES-0287,Lecture Hall,Student Organization,Training,22,94,30,5,0,8,Cancelled,0,7.0
+RES-0288,Laboratory,Administrative Staff,Workshop,20,79,30,2,0,9,Cancelled,0,2.0
+RES-0289,Laboratory,Student,Workshop,9,95,100,5,1,8,Cancelled,0,7.0
+RES-0290,Lecture Hall,Student Organization,Class Activity,0,24,30,4,0,18,No-Show,0,
+RES-0291,Meeting Room,Faculty,Event,27,102,80,4,2,14,Cancelled,0,3.0
+RES-0292,Lecture Hall,Student,Training,10,108,30,6,0,19,Cancelled,0,5.0
+RES-0293,Sports Facility,Student,Event,24,16,30,3,0,13,Cancelled,0,8.0
+RES-0294,Lecture Hall,Student Organization,Training,6,59,150,3,6,9,Cancelled,0,2.0
+RES-0295,Meeting Room,Student,Training,5,101,30,6,0,15,No-Show,0,
+RES-0296,Sports Facility,Faculty,Event,24,60,20,4,0,20,Used,53,
+RES-0297,Sports Facility,Student,Workshop,29,102,100,4,0,14,Used,90,
+RES-0298,Meeting Room,Faculty,Class Activity,26,113,150,2,0,7,Used,102,
+RES-0299,Meeting Room,Administrative Staff,Class Activity,23,60,20,2,3,11,No-Show,0,
+RES-0300,Auditorium,Faculty,Meeting,7,11,100,2,5,19,Used,11,
+RES-0301,Meeting Room,Faculty,Workshop,28,44,80,2,5,14,Used,38,
+RES-0302,Lecture Hall,Student,Event,20,29,100,2,4,20,Used,24,
+RES-0303,Laboratory,Student Organization,Workshop,5,59,20,5,0,14,Used,52,
+RES-0304,Laboratory,Student Organization,Class Activity,4,72,150,1,5,7,Cancelled,0,4.0
+RES-0305,Meeting Room,Faculty,Meeting,27,58,80,4,0,19,Used,52,
+RES-0306,Laboratory,Student,Training,8,27,150,6,4,17,Used,22,
+RES-0307,Laboratory,Student,Training,23,39,50,5,2,17,No-Show,0,
+RES-0308,Auditorium,External User,Meeting,4,83,150,3,6,20,Cancelled,0,3.0
+RES-0309,Lecture Hall,Faculty,Training,8,8,80,1,2,9,Used,7,
+RES-0310,Lecture Hall,Faculty,Event,8,29,20,6,4,19,Used,24,
+RES-0311,Laboratory,Student Organization,Training,8,108,150,1,3,10,No-Show,0,
+RES-0312,Laboratory,Administrative Staff,Training,-2,16,100,5,3,20,Used,14,
+RES-0313,Lecture Hall,External User,Event,28,53,30,5,6,9,Used,45,
+RES-0314,Laboratory,Student,Meeting,28,29,80,2,4,14,Used,24,
+RES-0315,Laboratory,Administrative Staff,Event,22,17,50,5,2,18,Used,15,
+RES-0316,Laboratory,Faculty,Meeting,6,54,80,2,3,8,Used,44,
+RES-0317,Laboratory,Student,Meeting,29,65,150,2,4,7,Used,58,
+RES-0318,Meeting Room,Administrative Staff,Event,16,25,150,5,2,18,Used,22,
+RES-0319,Lecture Hall,Student Organization,Workshop,16,14,30,6,1,7,Used,14,
+RES-0320,Sports Facility,Faculty,Workshop,21,20,150,2,3,15,Used,19,
+RES-0321,Sports Facility,Student Organization,Meeting,23,80,50,6,0,20,No-Show,0,
+RES-0322,Laboratory,Student Organization,Workshop,29,104,100,6,1,15,Cancelled,0,4.0
+RES-0323,Laboratory,Student Organization,Class Activity,18,25,100,5,2,13,Used,23,
+RES-0324,Laboratory,Faculty,Event,18,42,50,1,5,12,Used,38,
+RES-0325,Meeting Room,Administrative Staff,Workshop,23,44,50,2,5,15,Used,39,
+RES-0326,Auditorium,Faculty,Training,7,46,50,5,1,15,Used,39,
+RES-0327,Meeting Room,Faculty,Workshop,9,33,150,6,2,14,Used,27,
+RES-0328,Laboratory,External User,Workshop,19,11,50,5,1,9,Used,11,
+RES-0329,Auditorium,Student,Class Activity,1,65,30,3,5,16,Cancelled,0,4.0
+RES-0330,Lecture Hall,Administrative Staff,Class Activity,9,46,50,2,1,17,No-Show,0,
+RES-0331,Meeting Room,Faculty,Meeting,22,44,30,6,5,16,No-Show,0,
+RES-0332,Lecture Hall,Student,Meeting,30,35,50,2,5,8,Used,31,
+RES-0333,Meeting Room,Student Organization,Meeting,16,112,20,3,4,16,Cancelled,0,8.0
+RES-0334,Meeting Room,Faculty,Meeting,12,75,20,6,2,17,Used,66,
+RES-0335,Lecture Hall,Student,Event,13,53,100,0,6,9,Used,46,
+RES-0336,lecture hall,Administrative Staff,Class Activity,21,28,20,2,4,18,Used,25,
+RES-0337,Lecture Hall,Student,Meeting,16,97,80,1,4,14,Used,86,
+RES-0338,Meeting Room,Administrative Staff,Class Activity,0,108,100,3,5,13,No-Show,0,
+RES-0339,Lecture Hall,Student,Meeting,16,8,100,6,6,17,Used,7,
+RES-0340,Sports Facility,Faculty,Event,12,112,50,3,0,14,No-Show,0,
+RES-0341,Lecture Hall,Student Organization,Class Activity,21,86,30,5,6,14,Used,73,
+RES-0342,Sports Facility,Faculty,Meeting,27,16,150,2,5,11,Used,13,
+RES-0343,Meeting Room,Student Organization,Class Activity,29,92,150,5,1,19,Used,84,
+RES-0344,Auditorium,Student,Training,18,17,80,5,2,20,Used,15,
+RES-0345,Meeting Room,Faculty,Event,11,10,20,4,5,8,Used,9,
+RES-0346,Meeting Room,Administrative Staff,Meeting,13,18,20,5,1,17,No-Show,0,
+RES-0347,Sports Facility,Student,Class Activity,5,58,30,4,3,7,Used,53,
+RES-0348,Lecture Hall,Student,Class Activity,29,76,20,3,4,12,Used,66,
+RES-0349,Auditorium,Faculty,Workshop,26,52,150,5,4,20,Used,47,
+RES-0350,Lecture Hall,Faculty,Event,26,19,30,6,6,9,Used,17,
+RES-0351,Auditorium,External User,Workshop,10,28,30,6,0,12,Cancelled,0,8.0
+RES-0352,Lecture Hall,Student,Training,9,103,150,2,2,10,Used,92,
+RES-0353,Auditorium,Student,Meeting,26,116,100,5,6,17,No-Show,0,
+RES-0354,Auditorium,Student,Meeting,16,92,30,1,3,13,Used,74,
+RES-0355,Laboratory,Student,Workshop,21,16,50,4,1,15,Used,13,
+RES-0356,Laboratory,Student Organization,Meeting,15,100,80,4,2,20,Cancelled,0,4.0
+RES-0357,Meeting Room,Administrative Staff,Training,13,85,80,3,2,14,No-Show,0,
+RES-0358,Meeting Room,Student Organization,Class Activity,19,66,150,6,3,17,Used,63,
+RES-0359,Laboratory,Student,Workshop,25,21,150,6,1,8,Used,19,
+RES-0360,Auditorium,External User,Workshop,10,120,150,1,4,10,Used,102,
+RES-0259,Lecture Hall,Student Organization,Meeting,12,38,50,3,0,11,Used,30,
+RES-0152,Sports Facility,Student,Meeting,18,12,150,2,3,18,Used,11,
+RES-0154,Auditorium,Faculty,Class Activity,14,11,30,1,1,10,No-Show,0,
+RES-0319,Lecture Hall,Student Organization,Workshop,16,14,30,6,1,7,Used,14,
+RES-0355,Laboratory,Student,Workshop,21,16,50,4,1,15,Used,13,
